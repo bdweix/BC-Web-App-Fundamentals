@@ -1,3 +1,5 @@
+### Note: archiving this repo. @[Jdmcd]([url](https://github.com/jdmcd)) and I taught a weekly night class (informally) for students looking to learn web apps. These were some of our notes.
+
 # BC Web Applications
 The purpose of this course is to be able to understand the fundamentals of and create a fullstack web application. Subjects include the types of web requests, roles of the frontend and backend, basics of HTML, storing data, and starting and deploying an application
 
